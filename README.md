@@ -4,6 +4,7 @@ Additionally, I love trying different varieties of food and enjoy practicing yog
 In my leisure time, I also enjoy watching movies or TV shows.
 - 🌱 I’m currently learning Product Engineering - Frontend Developer course from
 School of Accelerated Learning (SOAL)
+
 Degree in Bachelor of Science - Physics
 <!---
 PranaliAdsul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
